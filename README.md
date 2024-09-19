@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tung Nguyen</h1>
 
-- 👩🏻‍🎓 Studied Computer Networks at the University of Information Technology, Vietnam
+- 👩🏻‍🎓 Studied Computer Networks at **the University of Information Technology, Vietnam**
 
-- 🌱 I’m currently learning **Machine/Deep Learning**
+- 🌱 I’m currently working on **Machine/Deep Learning**
 
 - 📫 How to reach me **nguyenthanhtung020405@gmail.com**
 

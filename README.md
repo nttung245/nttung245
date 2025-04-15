@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 Studied Computer Networks at **the University of Information Technology, Vietnam**
 
-- 🌱 I’m currently working on **Machine/Deep Learning**
+- 🌱 I’m currently working on **Software Engineering**
 
 - 📫 How to reach me **nguyenthanhtung020405@gmail.com**
 

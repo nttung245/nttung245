@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tung Nguyen</h1>
+<h1 align="center">Hi, I'm Tung Nguyen 👋</h1>
+<p align="center">Software Engineer · Ho Chi Minh City, Vietnam</p>
 
-- 👩🏻‍🎓 Studied Computer Networks at **the University of Information Technology, Vietnam**
+---
 
-- 🌱 I’m currently working on **Software Engineering**
+### About
+Computer Networks graduate from UIT Vietnam, currently focused on Software Engineering. I enjoy building clean, efficient systems and learning new technologies.
 
-- 📫 How to reach me **linkedin.com/in/tungnguyen05**
-
-
+---

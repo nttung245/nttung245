@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tung Nguyen 👋</h1>
-<p align="center">Software Engineer · Ho Chi Minh City, Vietnam</p>
+<p align="center">AI Engineer · Ho Chi Minh City, Vietnam</p>
 
 ---
 

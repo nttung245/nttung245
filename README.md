@@ -4,6 +4,6 @@
 ---
 
 ### About
-Computer Networks graduate from UIT Vietnam, currently focused on Software Engineering. I enjoy building clean, efficient systems and learning new technologies.
+Computer Networks graduate from UIT Vietnam, currently focused on AI Engineering. I enjoy building clean, efficient systems and learning new technologies.
 
 ---
